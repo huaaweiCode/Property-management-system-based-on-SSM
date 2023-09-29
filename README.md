@@ -59,4 +59,8 @@
 ![用户-查看新闻和公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092223773.jpg)
 
 
+### 获取方式&视频演示
 
+下方扫一下，回复关键词：物业
+
+![gitee](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202309291447341.png)
